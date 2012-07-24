@@ -3,7 +3,7 @@
 
 
 """
-    Test de Primalidad Probabilístico Miller-Rabin
+    Reconocimiento de los postulados de Golomb
     Copyright (C) 2012 Darío López Padial (@bukosabino) y César Aguilera (@Cs4r)
 
     This program is free software: you can redistribute it and/or modify
