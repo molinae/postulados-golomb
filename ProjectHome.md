@@ -1,0 +1,2 @@
+Programa capaz de determinar si una secuencia seudoaleatoria cumple los postulados de Golomb.
+Los postulados de Golomb a su vez son condiciones necesarias pero no suficientes para que secuencias seudoaleatorias parezcan aleatorias.
